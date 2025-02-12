@@ -1,0 +1,8 @@
+{
+"mongoURI": "mongodb+srv://aymenbelhadjkacem:OzSNUpu2jidZwiLh@myschool.iplkk.mongodb.net/?retryWrites=true&w=majority&appName=myschool",
+"port": 5000 ,
+"jwtSecret": "6a388d93a9c8387ada931d4592164339959037f66ef9ac2c23aca1b4a29ab03c8e09db2f8ba9ecd9af229718c615aef5223626b7aca835486b4341ac12c42fa6",
+"Cloudinary_Name":"dwd5trun2",
+"Cloudinary_API_Key":"519617216173814",
+"Cloudinary_API_Secret":"WAtf9aTT7vxA3sqlEhx_xIOWEn4"
+}
